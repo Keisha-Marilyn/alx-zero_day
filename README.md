@@ -1,2 +1,2 @@
 My first readme
-README.md update from github.com
+READNE.md update in main branch from github.com
